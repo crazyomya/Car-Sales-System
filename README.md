@@ -1,3 +1,21 @@
-The GUI based application can perform all basic tasks necessary to manage a car sales. Database connectivity is established between the java application and MySQL with the help of a MySQL connector .jar file. Different frame classes were created for different tasks by inheriting the frame class of java.awt package. The application can perform all basic tasks such as adding, removing, searching car details. A login page with a username and password is created for authenticating the user.
+# Car Sales Management System
 
-Code setup Note: Update password and name of database in the code wherever required in different classes.
+The Car Sales Management System is a GUI-based application designed to streamline the management of car sales. It establishes database connectivity between the Java application and MySQL using the MySQL connector .jar file. This application utilizes distinct frame classes created by inheriting the frame class of the java.awt package, each serving different functions.
+
+## Key Features
+
+- **Database Connectivity**: Establishes a connection with a MySQL database, facilitating the storage and retrieval of car sales data.
+
+- **User Authentication**: Includes a login page with username and password authentication for secure access to the system.
+
+- **Car Management**: Enables users to perform essential tasks, such as adding, removing, and searching for car details.
+
+## Code Setup
+
+Please ensure that you update the password and database name in the code wherever required in different classes to configure the application correctly.
+
+The Car Sales Management System simplifies the process of managing car sales by providing an efficient and user-friendly interface for users.
+
+---
+
+Feel free to customize this README with specific implementation details, technical specifications, or setup instructions as needed for your Car Sales Management System project.
