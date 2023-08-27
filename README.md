@@ -17,5 +17,3 @@ Please ensure that you update the password and database name in the code whereve
 The Car Sales Management System simplifies the process of managing car sales by providing an efficient and user-friendly interface for users.
 
 ---
-
-Feel free to customize this README with specific implementation details, technical specifications, or setup instructions as needed for your Car Sales Management System project.
